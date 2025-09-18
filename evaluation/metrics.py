@@ -1,0 +1,1 @@
+# “Write Python code for accuracy, precision, recall, and F1 evaluation on each test batch. Function: evaluate_batch(model, X, y).”
