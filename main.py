@@ -1,1 +1,0 @@
-# “Write Python code to integrate data_streams/stream_generator.py and data_streams/query_strategies.py with models/rbfnn.py. For each batch from the stream, apply a query strategy, split into (X_labeled, y_labeled, X_unlabeled), call trainer.py to update the model, and save accuracy using evaluation/metrics.py. Use dataset from datasets/real_dataset.csv.”

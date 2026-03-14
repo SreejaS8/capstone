@@ -1,2 +1,0 @@
-# NIKHITHA
-# “Write Python code for ssl_smoothness_loss(X_unlabeled, outputs) that computes smoothness regularization. Use k-NN graph similarity: penalize large prediction differences between nearby unlabeled points.”

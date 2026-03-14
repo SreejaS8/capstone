@@ -1,2 +1,0 @@
-# SANJANA
-# “Write Python code to load datasets/real_dataset.csv (Electricity dataset) and simulate it as a stream with concept drift (sudden, gradual, incremental). Function: generate_stream(drift_type, batch_size) should yield (X, y) batches and optionally save them into datasets/batches/.”
